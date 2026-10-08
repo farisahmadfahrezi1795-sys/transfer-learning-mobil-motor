@@ -1,0 +1,2 @@
+model,device,average_latency_ms,min_latency_ms,max_latency_ms,measurement_runs
+ResNet-18 Partial Fine-Tuning,cpu,76.68865699992239,64.8538000004919,102.40049999993062,100
