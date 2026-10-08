@@ -1,0 +1,4 @@
+experiment,learning_rate,best_val_accuracy,best_epoch,epoch_90,test_accuracy,training_time_seconds
+feature,0.001,1.0,4,3,0.7222222222222222,82.98180508613586
+partial,0.0001,1.0,1,1,1.0,108.65039038658142
+scratch,0.001,0.6666666666666666,10,,0.5555555555555556,192.25605297088623
